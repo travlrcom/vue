@@ -11849,7 +11849,7 @@ function createCompileToFunctionFn (compile) {
       }
     }
 
-    return (cache[key] = res)
+    return (res)
   }
 }
 
