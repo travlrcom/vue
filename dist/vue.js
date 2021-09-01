@@ -11798,7 +11798,7 @@
         }
       }
 
-      return (cache[key] = res)
+      return (res)
     }
   }
 
